@@ -10,46 +10,10 @@ const proposalData = [
         contact: 'john.doe@example.com',
         postedDate: '2023-06-01'
     },
-    {
-        id: 2,
-        name: 'Jane Smith',
-        gender: 'Bride',
-        age: 28,
-        location: 'Los Angeles',
-        description: 'Professional with a love for the arts and outdoor activities. Seeking a supportive and adventurous partner.',
-        contact: 'jane.smith@example.com',
-        postedDate: '2023-05-20'
-    },
-    {
-        id: 3,
-        name: 'Michael Johnson',
-        gender: 'Groom',
-        age: 32,
-        location: 'Chicago',
-        description: 'Entrepreneur with a passion for technology and innovation. Looking for someone who shares similar interests.',
-        contact: 'michael.johnson@example.com',
-        postedDate: '2023-04-15'
-    },
-    {
-        id: 4,
-        name: 'Emily Davis',
-        gender: 'Bride',
-        age: 27,
-        location: 'San Francisco',
-        description: 'Creative and artistic individual seeking a partner who values communication and mutual respect.',
-        contact: 'emily.davis@example.com',
-        postedDate: '2023-03-10'
-    },
-    {
-        id: 5,
-        name: 'David Wilson',
-        gender: 'Groom',
-        age: 35,
-        location: 'Miami',
-        description: 'Sports enthusiast and avid reader. Looking for a life partner who is caring and has a good sense of humor.',
-        contact: 'david.wilson@example.com',
-        postedDate: '2023-02-25'
-    }
+    
+    
+    
+   
 ];
 
 let filteredProposals = [...proposalData];
