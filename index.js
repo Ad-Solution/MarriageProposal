@@ -2,13 +2,13 @@
 const proposalData = [
     {
         id: 1,
-        name: 'John Doe',
-        gender: 'Groom',
-        age: 30,
-        location: 'New York',
-        description: 'Looking for a kind and understanding partner. Family-oriented and enjoys traveling.',
-        contact: 'john.doe@example.com',
-        postedDate: '2023-06-01'
+        name: '',
+        gender: '',
+        age: ,
+        location: '',
+        description: '',
+        contact: '',
+        postedDate: ''
     },
     
     
